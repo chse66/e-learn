@@ -21,9 +21,7 @@ Please be aware that the popular courses tend to fill out extremely quickly. We 
 Our advice is to **book early**. If possible, ask to be signed up for one of the mailing lists (i.e. via your department, or email the training system). There are also options to go onto *waiting lists* or *register your interest* if all the places are filled.
 
 
-[Custom foo description](#coursera-notes)
-
-### Coursera
+### [Coursera](#coursera-homepage)
 [Coursera](https://www.coursera.org) is an online learning platform. Many universities and organisations offer courses, specialisations and even online degrees in a variety of subjects. We recommend browsing the platform yourself to see if there is something that you'd enjoy, not mentioned on this website.
 
 While one would most likely get the fullest out of Coursera with a paid subscription, there are a substantial number of free components which might be helpful for some.
