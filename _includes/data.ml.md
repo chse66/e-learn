@@ -1,0 +1,1 @@
+[Machine Learning](https://www.coursera.org/learn/machine-learning), offered by Stanford University. More details to come.
