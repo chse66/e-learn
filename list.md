@@ -1,3 +1,5 @@
+{% include nav-bar.md %}
+
 ## Coding
 Learning to code or program is easier by doing (for most people). The following links teach you to code in a specific language, whilst achieving a particular purpose.
 

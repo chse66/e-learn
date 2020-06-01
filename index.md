@@ -1,3 +1,5 @@
+{% include nav-bar.md %}
+
 This is a collection of links to online courses or material for Clare Hall students to learn various interesting topics in their free time. Compiled by the Clare Hall IT Officer.
 
 Any suggestions, please use this [form](https://forms.gle/ftaA311nYE4smCfJ9). 
