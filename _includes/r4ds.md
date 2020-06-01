@@ -1,0 +1,1 @@
+*R for Data Science* is an amazing and comprehensible book by Garrett Grolemund and Hadley Wickham. It covers everything in data analysis: obtaining data, tidying it, exploring it and perhaps what people want most, making pretty visualisations! Electronic version available [online](https://r4ds.had.co.nz).
