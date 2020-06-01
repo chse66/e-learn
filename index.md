@@ -1,6 +1,6 @@
 This is a collection of links to online courses or material for Clare Hall students to learn various interesting topics in their free time. Compiled by the Clare Hall IT Officer.
 
-Any suggestions, please use this contact form. 
+Any suggestions, please use this [form](https://forms.gle/ftaA311nYE4smCfJ9). 
 
 ## General information
 There are many online learning platforms. Some require a fee to use, while others are free. In this website, our aim is to include only freely accessible material. When any resource requires a fee, it shall be indicated.
