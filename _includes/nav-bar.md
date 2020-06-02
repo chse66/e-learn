@@ -1,3 +1,1 @@
-**[home](index)** | **[list](list)**
-
-***
+<a href='{{ site.baseurl }}'>homepage</a> | <a href='{{ site.baseurl }}list'list</a>
